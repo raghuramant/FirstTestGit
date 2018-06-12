@@ -14,6 +14,5 @@ public class Framework {
 	}
 
 	static void secondmethod() {
-		System.out.println("added second method");
 	}
 }
